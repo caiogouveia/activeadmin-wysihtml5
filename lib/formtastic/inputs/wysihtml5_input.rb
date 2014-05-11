@@ -19,7 +19,8 @@ module Formtastic
         small: 90,
         medium: 170,
         large: 350,
-        huge: 450
+        huge: 450,
+        fuckingHuge: 900
       }
 
       def toolbar_blocks
