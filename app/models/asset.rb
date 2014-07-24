@@ -1,5 +1,4 @@
 class Asset < ActiveRecord::Base
-  :label => "Uploads"
   image_accessor :storage
 
   def percentage_thumb_url(size)
